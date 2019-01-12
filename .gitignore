@@ -1,3 +1,20 @@
+# msvc
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.ilk
+*.pdb
+*.iobj
+*.ipbd
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.vcxproj.filters
+*.vcxproj.user
+*.ipdb
+
 # Prerequisites
 *.d
 
